@@ -1,9 +1,3 @@
-**GitHub Repository Name:** bark-web-app
-
-**Repository Description:** A web application that interfaces with the Bark library to generate audio from text input. Built using Vue.js, Flask, and Google Cloud Platform.
-
-**README.md:**
-
 Bark Web App
 ============
 
